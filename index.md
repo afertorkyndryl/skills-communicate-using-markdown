@@ -7,3 +7,6 @@
 
 ![Imagen de prueba](https://th.bing.com/th/id/OIP.-EpsqHbxWA2oDr-8wt5ogQHaD4?rs=1&pid=ImgDetMain)
 
+``` javascript
+var myVar = "Hello, world!";
+```
